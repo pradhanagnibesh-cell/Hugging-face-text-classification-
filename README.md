@@ -1,21 +1,4 @@
-# Hugging-face-text-classification-
----
-# Please don't change the text below, it's for formatting the documentation.
-title: "Text Classification with Hugging Face Transformers Tutorial"
-description: "Learn how to create a custom text classification model with Hugging Face Transformers."
-image: "https://huggingface.co/datasets/mrdbourke/learn-hf-images/resolve/main/learn-hf-text-classification/00-project-food-not-food-overview.png"
-format: 
-  html:
-    code-fold: false
-    page-layout: full
-jupyter: python3
-number-sections: true
-toc: true
-toc-depth: 3
-toc-expand: 2 # expand toc to multiple levels
-code-block-border-left: true
-code-block-bg: true
----
+
 <a target="_blank" href="https://colab.research.google.com/github/mrdbourke/learn-huggingface/blob/main/notebooks/hugging_face_text_classification_tutorial.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
